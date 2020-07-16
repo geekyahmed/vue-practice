@@ -1,4 +1,4 @@
-# corona
+# vue-practice
 
 ## Project setup
 ```
